@@ -20,25 +20,25 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 Learn the HedgePlus Basics to get an overview of our mission, vision, whitepapers, and resources.
 
-- [What is Hedgplus?]
-- [Showcase]
-- [Explorer]
+- [What is Hedgplus?](https://www.hedgeplus.io/)
+- [Showcase](https://www.hedgeplus.io/)
+- [Explorer](https://www.hedgeplus.io/)
 
 
 ### Use HedgePlus
 
 Get up and running using tools in the Hedgeplus ecosystem.
 
-- [Developers]
-- [Validators]
+- [Developers](https://www.hedgeplus.io/)
+- [Validators](https://www.hedgeplus.io/)
 
 
 ### Explore HedgePlus
 
 Explore Hedgeplus data to view the reserve, network, dapps, and additional analytics.
 
-- [HedgePlus Analytics]
-- [Hedgeplus Reserve]
+- [HedgePlus Analytics](https://www.hedgeplus.io/)
+- [Hedgeplus Reserve](https://www.hedgeplus.io/)
 
 
 
