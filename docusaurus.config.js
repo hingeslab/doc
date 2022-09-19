@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HedgePlus',
   tagline: 'Dinosaurs are cool',
-  url: 'https://hedgeplus-io/docs',
+  url: 'https://paulieb14@github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
