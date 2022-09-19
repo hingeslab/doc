@@ -20,25 +20,25 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 Learn the HedgePlus Basics to get an overview of our mission, vision, whitepapers, and resources.
 
-- [What is Hedgplus?](learn/why-celo)
-- [Showcase](/showcase)
-- [Explorer](https://explorer.celo.org/)
+- [What is Hedgplus?]
+- [Showcase]
+- [Explorer]
 
 
 ### Use HedgePlus
 
 Get up and running using tools in the Hedgeplus ecosystem.
 
-- [Developers](developer-guide/overview)
-- [Validators](validator-guide/overview)
+- [Developers]
+- [Validators]
 
 
 ### Explore HedgePlus
 
 Explore Hedgeplus data to view the reserve, network, dapps, and additional analytics.
 
-- [HedgePlus Analytics](https://explorer.celo.org/stats)
-- [Hedgeplus Reserve](https://celoreserve.org/)
+- [HedgePlus Analytics]
+- [Hedgeplus Reserve]
 
 
 
