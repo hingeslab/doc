@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# HedgePlus Introduction
+# Hingeslap Introduction
 
 ### IMPORTANT NOTICE
 Everything in this White Paper and any relevant material particular whatsoever connected therewith must be read with astute care and caution. If, after a careful reading of everything, there is a persistence of doubt, which borders on the action you should take, you are therefore advised to consult your legal, financial, tax, or other professional advisors.
