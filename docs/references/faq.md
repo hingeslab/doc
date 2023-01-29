@@ -4,17 +4,17 @@ sidebar_position: 14
 
 # Frequently Asked Questions
 
-### What is HedgePlus's mission?
+### What is Hinges's mission?
 
-HedgePlus's mission is to make Defi easy, safe, and accessible to more people.
+Hinges's mission is to make Defi easy, safe, and accessible to more people.
 
-### Have the HedgePlus token contracts been audited?
+### Have the Hinges token contracts been audited?
 
-Yes, HedgePlus Smart contracts and related source materials were audited by independent security researchers. We are hiring a top Smart Contract Audit Company to go through the smart contracts and implement a comprehensive audit before launching. Security for users is a top priority at HedgePlus. We will run one of the more extensive bounty programs in the space ($250,000), and we will be teaming up with [Immunefi](https://immunefi.com/) to give it more visibility. Of course, we cannot guarantee that bugs won't be found in the future.
+Yes, Hinges Smart contracts and related source materials were audited by independent security researchers. We are hiring a top Smart Contract Audit Company to go through the smart contracts and implement a comprehensive audit before launching. Security for users is a top priority at Hinges. We will run one of the more extensive bounty programs in the space ($250,000), and we will be teaming up with [Immunefi](https://immunefi.com/) to give it more visibility. Of course, we cannot guarantee that bugs won't be found in the future.
 
-### Is HedgePlus Cross-Chain Compatible?
+### Is Hinges Cross-Chain Compatible?
 
-HedgePlus is a Multichain Defi Ecosystem, which features Cross-chain, P2P, and Instant Swaps across Ethereum, Binance Smart Chain & Polygon (Matic) blockchains.
+Hinges is a Multichain Defi Ecosystem, which features Cross-chain, P2P, and Instant Swaps across Ethereum, Binance Smart Chain & Polygon (Matic) blockchains.
 
 ### Any further questions?
 
