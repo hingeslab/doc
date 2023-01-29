@@ -59,10 +59,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'HedgePlus',
+        title: 'Hinges',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Hedgeplus.png',
+          src: 'img/Hinges.png',
         },
         items: [
           {
