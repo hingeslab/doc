@@ -21,7 +21,7 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 Learn the Hinges Basics to get an overview of our mission, vision, whitepapers, and resources.
 
-- [What is Hedgplus?](https://www.hedgeplus.io/)
+- [What is Hinges?](https://www.hedgeplus.io/)
 - [Showcase](https://www.hedgeplus.io/)
 - [Explorer](https://www.hedgeplus.io/)
 

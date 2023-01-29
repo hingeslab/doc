@@ -2,7 +2,7 @@
 
 ### Crypto Assets Investment Fund and Early-stage Incubator
 
-HedgePlus Ventures is committed to becoming a global accelerator and investor building the native Web 3.0 blockchain economy. Working alongside leading founders, exciting start-ups, and corporate innovators, we move new concepts efficiently to the market.
+Hinges Ventures is committed to becoming a global accelerator and investor building the native Web 3.0 blockchain economy. Working alongside leading founders, exciting start-ups, and corporate innovators, we move new concepts efficiently to the market.
 
 Partners benefit and flourish through co-creation, capital, and a community invested in their success. The community benefits from early access and onboarding with projects at the intersection of emerging technologies and societal trends. Together, we bring innovative ideas to life.
 
