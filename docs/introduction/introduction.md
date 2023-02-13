@@ -34,7 +34,7 @@ Furthermore, all statements regarding Hingeslab and/or its affiliates’ busines
 
 8. Changes in the future capital needs of Hingeslab and/or its affiliates and the availability of financing and capital to fund such needs;
 
-9. War or acts of international or domestic terrorism;
+9. War or acts of international or domestic terrorism
 
 10. Occurrences of catastrophic events, natural disasters, and acts of God that affect the businesses and/or operations of HedgePlus and/or its affiliates;
 
