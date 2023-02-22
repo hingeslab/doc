@@ -21,25 +21,25 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 Learn the Hinges Basics to get an overview of our mission, vision, whitepapers, and resources.
 
-- [What is Hinges?](https://www.hedgeplus.io/)
-- [Showcase](https://www.hedgeplus.io/)
-- [Explorer](https://www.hedgeplus.io/)
+- [What is Hinges?]
+- [Showcase]
+- [Explorer]
 
 
 ### Use Hinges
 
 Get up and running using tools in the Hinges ecosystem.
 
-- [Developers](https://www.hedgeplus.io/)
-- [Validators](https://www.hedgeplus.io/)
+- [Developers]
+- [Validators]
 
 
 ### Explore Hinges
 
 Explore Hinges data to view the reserve, network, dapps, and additional analytics.
 
-- [Hinges Analytics](https://www.hedgeplus.io/)
-- [Hinges Reserve](https://www.hedgeplus.io/)
+- [Hinges Analytics]
+- [Hinges Reserve]
 
 
 
