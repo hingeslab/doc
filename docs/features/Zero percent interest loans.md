@@ -1,5 +1,3 @@
-
-
 Hinges provide many options for supported crypto assets, including collateral assets. The loanable limit is based on market conditions and internal risk management.
 We will not charge any hidden fees, such as origination, application, or prepayment fees.
 Our loans will also not require high over-collateralization.
