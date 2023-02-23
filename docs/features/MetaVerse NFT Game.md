@@ -1,6 +1,5 @@
 
 
-### MetaVerse NFT Game
 
 Hinges is creating an all-new DeFi-inspired and crypto-incentivized strategy game with features like battling, breeding, training, and unique upgrades to in-game characters, all verifiable on the Blockchain.
  
