@@ -76,6 +76,12 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://hinges.io/',
+            label: 'Website',
+            position: 'right',
+          },
+        ],
       },
       footer: {
         style: 'dark',
