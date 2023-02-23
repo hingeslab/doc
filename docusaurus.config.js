@@ -71,14 +71,18 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-         // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/hedgeplus-io',
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://hinges.io/',
+            label: 'Website',
+            position: 'right',
+          },
         ],
-      },
+    },
       footer: {
         style: 'dark',
         links: [

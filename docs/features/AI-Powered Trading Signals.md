@@ -1,6 +1,5 @@
 
 
-### AI-Powered Trading Signals
 
 Here at Hinges, we are on a mission to reform trading stereotypes! 
 
