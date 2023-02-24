@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: 'docs/intro.md',
               },
             ],
           },
@@ -104,7 +104,11 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/hedgeplus_io',
+                href: 'https://twitter.com/hingesHQ',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/hinges_EN',
               },
             ],
           },
@@ -122,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HedgePlus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hinges.`,
       },
       prism: {
         theme: lightCodeTheme,
