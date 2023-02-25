@@ -10,9 +10,10 @@ const config = {
   tagline: 'Dinosaurs are cool',
   url: 'https://paulieb14@github.io',
   baseUrl: '/',
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -128,19 +129,19 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Hinges.`,
       },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+      colorMode: {
+        // "light" | "dark"
+        defaultMode: 'dark',
+  
+        // Hides the switch in the navbar
+        // Useful if you want to support a single color mode
+        disableSwitch: false,
+  
+        // Should we use the prefers-color-scheme media-query,
+        // using user system preferences, instead of the hardcoded defaultMode
+        respectPrefersColorScheme: true,
       },
     }),
 };
 
-module.exports = {
-  themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-    },
-  },
-};
+module.exports = config;
