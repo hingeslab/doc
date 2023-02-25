@@ -1,4 +1,3 @@
 # Vesting
 
-    ![image](/img/Token Distribution.png)
-
+![image](/img/TokenDistribution.png)
