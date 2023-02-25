@@ -135,12 +135,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-    },
-  },
-};
+module.exports = config;
