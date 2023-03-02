@@ -1,3 +1,3 @@
 # Vesting
 
-![image](/img/TokenDistribution.png)
+![Vesting](/img/tokenmobile.png)
