@@ -131,7 +131,7 @@ const config = {
         // using user system preferences, instead of the hardcoded defaultMode
         respectPrefersColorScheme: true,
       },
-    }),
+    },
 };
 
 module.exports;
