@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/PaulieB14/Hinges,
+  url: 'https://doc-git-fork-paulieb14-main-hingesweb.vercel.app/Introduction/Overview,
   baseUrl: 'Hinges/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
