@@ -144,4 +144,17 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  themeConfig: {
+    footer: {
+      logo: {
+        alt: 'Hinges Logo',
+        src: '/img/Hinges.png',
+        href: 'https://www.hinges.io/',
+        width: 160,
+        height: 51,
+      },
+      copyright: `Copyright © ${new Date().getFullYear()}`,
+    },
+  },
+};
