@@ -1,1 +1,2 @@
-# Example
+# Token Economics
+

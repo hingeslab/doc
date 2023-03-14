@@ -1,1 +1,2 @@
-# Example
+# Bug Bounty Program
+
