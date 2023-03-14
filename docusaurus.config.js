@@ -8,11 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
-  url: 'https://doc-git-fork-paulieb14-main-hingesweb.vercel.app/Introduction/Overview,
-  baseUrl: 'Hinges/',
+  url: 'https://paulieb14@github.io',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -38,9 +39,16 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/paulieb14/Hinges-docs/tree/main/docs/',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false,
+        blog:false,
+        //blog: {
+          //showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          //editUrl:
+          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -48,53 +56,55 @@ const config = {
     ],
   ],
 
-  themeConfig: {
-    navbar: {
-      title: 'Hinges',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/Hinges.png',
-      },
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Documentation',
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      navbar: {
+        title: 'Hinges',
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/Hinges.png',
         },
-        {
-          href: 'https://github.com/hedgeplus-io',
-          label: 'GitHub',
-          position: 'right',
-        },
-        {
-          href: 'https://hinges.io/',
-          label: 'Website',
-          position: 'right',
-        },
-      ],
+        items: [
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Documentation',
+          },
+          {
+            href: 'https://github.com/hedgeplus-io',
+            label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://hinges.io/',
+            label: 'Website',
+            position: 'right',
+          },
+        ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: 'docs/intro.md',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Discord',
-              href: 'https://discord.com/invite/hkqAHKUVGK',
-            },
-            {
-              label: 'Twitter',
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Tutorial',
+                to: 'docs/intro.md',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Discord',
+                href: 'https://discord.com/invite/hkqAHKUVGK',
+              },
+              {
+                label: 'Twitter',
                 href: 'https://twitter.com/hingesHQ',
               },
               {
@@ -131,7 +141,7 @@ const config = {
         // using user system preferences, instead of the hardcoded defaultMode
         respectPrefersColorScheme: true,
       },
-    },
+    }),
 };
 
-module.exports;
+module.exports = config;
