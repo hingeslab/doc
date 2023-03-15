@@ -47,7 +47,6 @@ module.exports = {
       label: 'FEATURES',
       items: [
         'Features/Autonomous',
-        'Features/AI-Powered-Trading-Signals',
         'Features/Crypto-Assets-Investment-Fund',
         'Features/Inner-Circle-Altcoins-Trading',
         'Features/MetaVerse-NFT-Game',
