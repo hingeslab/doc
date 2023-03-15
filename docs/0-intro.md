@@ -8,7 +8,7 @@ slug: /
 
 :::note Hinges ❤️ Feedback
 
-If you have any ideas to improve the docs please make an [issue](https://github.com/hedgeplus-io/docs/issues/new), discuss in the [Discord](https://discord.gg/XUG5CHEH](https://discord.gg/6nTkjb6y)
+If you have any ideas to improve the docs please make an [issue](https://github.com/hedgeplus-io/docs/issues/new), discuss in the [Discord](https://discord.gg/6nTkjb6y)
 
 :::
 
