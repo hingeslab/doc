@@ -1,1 +1,107 @@
 # Overview
+
+Welcome to Hinges' documentation!
+
+
+Notice and Disclaimer: The Hinges team will constantly update this document/whitepaper. The objective of all changes is to improve the quality and sustainability of the project. Last updated March 2023.
+
+
+Hinges' is the bridge between CeFi and DeFi, combining the best of both worlds to create an entirely new platform that offers scalability, security, privacy, transparency, efficiency, and accessibility.
+
+Our platform combines the transparency and efficiency of a decentralized platform with the security and scalability of a centralized one.
+
+ 
+
+Enjoy complete transparency and control over your funds and access to many new assets, investment opportunities, and innovative strategies.
+
+Our hybrid model is the ideal combination of DeFi and CeFi, designed for regular users to reduce friction and ease pain while also providing lower fees, better security, accessibility, speed, and lower cost.
+
+ 
+
+We are witnessing the birth of a global, open financial system, the impact of which will rival that of the internet itself. Hinges will impact how we do business, invest and raise capital, understand our world, and much more.
+
+ 
+
+Bitcoin's arrival heralded a new era of peer-to-peer electronic payments and has given rise to cryptocurrency markets as we know them today. Since its inception, Bitcoin has grown exponentially in terms of usage and value. Somewhat more recently, the release of Ethereum and any other "smart contract" blockchains expanded upon cryptocurrency's functionality by offering 'Smart Contracts.' Smart contracts provide a versicle solution in decentralizing many products, including financial services.
+
+ 
+
+Some of these services include:
+
+ 
+
+* Peer-to-peer lending – loans and borrowing (usually backed by collateral, such as coins and tokens) between individuals. 
+
+* Peer-to-peer exchange – exchange of coins and tokens that require no registration or trust with a centralized party.
+
+* Non-fungible tokens – provable ownership and notarization of uniquely identifiable items, many of which are purely digital.
+
+ 
+
+Centralized Decentralized Finance (CeDeFi) has seen a significant user uptake thanks to accessibility, low cost, and ease of entry. 
+
+ 
+
+While retail investment dominates in this market, there are signs that institutional investor interest is growing.
+
+Several global banks offer crypto custody services and trading to a broader range of clients or plan to provide them. Leading payment firms have also developed exchange platforms facilitating matched trades or offering customers access to other crypto exchanges through their apps.
+
+ 
+
+Digital assets are a promising tool for promoting financial inclusion, giving retail investors and average consumers better access to financial services. Digital assets could help address some systemic problems plaguing larger economic systems. Digital assets could be a powerful alternative to traditional currencies and mainstream investing.
+
+ 
+
+The current financial landscape is ripe for disruption, and we are witnessing the reinvention of finance in real-time.
+
+ 
+
+Blockchain can disrupt the $5T+ banking industry by disintermediating banks' critical services, from loans and payments to clearance and settlement systems. B2B cross-border payments are expected to soar.
+
+ 
+
+A new generation of retail investors and institutions is demanding greater access to a broader range of products and safe, dependable, and innovative solutions. As a result, investors worldwide need rapid and easy access to a growing array of financial instruments.
+
+ 
+
+The global blockchain in fintech market size is forecast to reach USD 580.97 billion by 2032 from USD 2.12 billion in 2022, rising at a compound annual growth rate (CAGR) of 75.30% during the forecast period.
+
+Lending volumes are increasing, but they remain small. In 2022, the global user base was around 4.87 million.
+
+The DeFi market is still tiny compared to traditional finance, but it's growing at a 42.5% CAGR. Lending made up 15.8% of the market cap in Q3 2022.
+
+ 
+
+The financial revolution is here. It's time to democratize finance by allowing anyone to access financial services, particularly those in underserved communities who do not (e.g., those living in remote areas) or cannot (e.g., those unemployed or with a poor credit history) have access to financial institutions.
+
+ 
+
+With the notoriously fragmented nature of banking in the developing world, CeDeFi holds much promise. With a demographically youthful population, the stage is set for disruption in financial services and technology to help serve the unbanked and underbanked globally.
+
+ 
+
+The real estate market is soaring worldwide, with rising prices and increasing rentability making investments in properties increasingly attractive. New lifestyle approaches to work/life balance are seeing people take more 'workcations,' which means that even more people are investing in the sector.
+
+ 
+
+An estimated 1.4 billion new urban dwellers will join the world's most dense cities in the next decade. 
+
+Fractional ownership has become increasingly popular among both investors in recent years. Due to the significant entry barrier, this form of investment has always been viewed as a luxury investment for the rich. But thanks to the idea of fractional ownership, small-ticket investors are swiftly showing interest in this high-return asset class.
+
+ 
+
+Hinges' enables fractionalized investment in significant real estate investment markets by tokenizing real estate assets.
+
+ 
+
+According to estimations, the gaming sector is one of the most popular in the world in terms of users. By 2028, it is anticipated that the market will be valued at $435 billion.
+
+Revenue from the worldwide blockchain gaming market is expected to reach USD 4.6 billion in 2022 and USD 65.7 billion in 2027, growing at a CAGR of 70.3%. 
+
+In the current condition of the blockchain sector, there are many indications that gaming is more favorable to value accumulation and user growth than open virtual worlds.
+
+Even though DeFi and NFTs have been more popular over the past year, gaming still has the highest on-chain usage and the number of active wallets. Crypto is the future of the in-game economy.
+
+ 
+
+With the knowledge that capital goes where it is most efficient and appreciated, we look forward to an exciting and profitable engagement with all of you.
