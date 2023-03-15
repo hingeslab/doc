@@ -66,6 +66,6 @@ Explore Hinges data to view the reserve, network, dapps, and additional analytic
 
 :::note Get Support 💬
 
-Need help with anything related to Hinges? Find Hinges on [Discord](https://discord.gg/XUG5CHEH), [Twitter](https://twitter.com/hedgeplus_io), or [Telegram](https://t.me/hedgeplus_io).
+Need help with anything related to Hinges? Find Hinges on [Discord](https://discord.gg/6nTkjb6y), [Twitter](https://twitter.com/hingesHQ), or [Telegram](https://t.me/hedgeplus_io).
 
 :::
