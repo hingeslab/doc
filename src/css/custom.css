@@ -69,3 +69,6 @@ footer.footer nav.social-links {
   }
 }
 
+footer.footer > div.container-fluid {
+  max-width: inherit;
+}
