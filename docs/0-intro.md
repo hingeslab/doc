@@ -6,16 +6,37 @@ slug: /
 
 # Hinges
 
-:::tip Hinges ❤️ Feedback
+:::note Hinges ❤️ Feedback
 
 If you have any ideas to improve the docs please make an [issue](https://github.com/hedgeplus-io/docs/issues/new), discuss in the [Discord](https://discord.gg/XUG5CHEH)
 
 :::
 
+## Find the latest releases
 
-## Getting Started
+See the newest Hinges releases in the [Latest Releases](./5-Resources.md) list and its subpages.
 
-[Hinges](https://hedgeplus.io/) has decentralized financial (DeFi) tools and services accessible to anyone and made makes things easy. It aims to break down barriers by helping you earn using decentralized finance and using your crypto to access funds with zero cost loans.  Use this documentation as your guide into the Hinges ecosystem!
+## Set up your environment and start with the tutorials   
+
+<div class="docs-card-container">
+<div class="row row-cols-1 row-cols-md-3a g-4">
+  
+  <div class="col">
+    <div class="card card-body h-100 d-flex flex-column" >
+    <a href="/4-User Guides/1-Staking" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
+    <p class="card-text">Begin by looking at the user guides.</p>
+</div>
+  </div>
+  <div class="col">
+    <div class="card card-body h-100 d-flex flex-column">
+    <a href="/2-Features/ Autonomous" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
+    <p class="card-text">Check out Hinges features.</p>
+</div>
+</div>
+</div>
+</div>
+
+
 
 ### Hinges Basics
 
@@ -43,7 +64,7 @@ Explore Hinges data to view the reserve, network, dapps, and additional analytic
 
 
 
-:::tip Get Support 💬
+:::note Get Support 💬
 
 Need help with anything related to Hinges? Find Hinges on [Discord](https://discord.gg/XUG5CHEH), [Twitter](https://twitter.com/hedgeplus_io), or [Telegram](https://t.me/hedgeplus_io).
 
