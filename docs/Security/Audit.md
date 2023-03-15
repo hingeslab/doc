@@ -1,3 +1,8 @@
+---
+title: "Audit"
+id: "Security/Audit"
+---
+
 # Audit
 
 ## Have the Hinges token contracts been audited?

@@ -1,4 +1,7 @@
-
+---
+title: "Inner-Circle-Altcoins-Trading"
+id: "Features/Inner-Circle-Altcoins-Trading"
+---
 
 ### Farming and Staking
 

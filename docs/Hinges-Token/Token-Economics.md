@@ -1,3 +1,8 @@
+---
+title: "Token-Economics"
+id: "Hinges-Token/Token-Economics"
+---
+
 # Token Economics
 
 * Tokenomics

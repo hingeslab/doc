@@ -1,3 +1,8 @@
+---
+title: "FAQ"
+id: "Resources/FAQ"
+---
+
 # FAQ
 
 # Frequently Asked Questions

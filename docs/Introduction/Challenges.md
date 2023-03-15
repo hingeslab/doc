@@ -1,3 +1,8 @@
+---
+title: "Challenges"
+id: "Introduction/Challenges"
+---
+
 # Challenges
 
 One of the most difficult challenges is that DeFi is inherently incompatible with traditional financial frameworks and processes. Addressing these issues will pave the way for DeFi to be used in business financing, investment, and personal money management.

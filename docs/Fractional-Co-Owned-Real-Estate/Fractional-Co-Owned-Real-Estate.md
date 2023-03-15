@@ -1,3 +1,9 @@
+---
+title: "Fractional-Co-Owned-Real-Estate"
+id: "Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate"
+---
+
+
 Hinges' is introducing a novel method of co-ownership.
 
 You may now co-own investment property with friends and strangers thanks to Hinges. Everyone can invest in shares of high-quality homes, which have the potential to increase in value and generate profits right away.

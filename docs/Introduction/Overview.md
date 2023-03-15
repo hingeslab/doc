@@ -1,3 +1,8 @@
+---
+title: "Overview"
+id: "Introduction/Overview"
+---
+
 # Overview
 
 Welcome to Hinges' documentation!

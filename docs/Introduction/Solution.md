@@ -1,3 +1,9 @@
+---
+title: "Solution"
+id: "Introduction/Solution"
+---
+
+
 # Solution
 
 ![Markdown Image](https://betterfundraising.com/wp-content/uploads/2019/04/solution-to-problem-2019-Apr23.jpg)

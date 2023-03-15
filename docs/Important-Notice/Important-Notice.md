@@ -1,4 +1,7 @@
-
+---
+title: "Important-Notice"
+id: "Important-Notice/Important-Notice"
+---
 
 # Hinges Introduction
 

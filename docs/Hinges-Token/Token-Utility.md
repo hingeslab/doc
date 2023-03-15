@@ -1,3 +1,9 @@
+---
+title: "Token-Utility"
+id: "Hinges-Token/Token-Utility"
+---
+
+
 # Hinges Token Utility
 
 

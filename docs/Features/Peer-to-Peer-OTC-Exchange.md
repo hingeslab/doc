@@ -1,4 +1,7 @@
-
+---
+title: "Peer-to-Peer-OTC-Exchange"
+id: "Features/Peer-to-Peer-OTC-Exchange"
+---
 
 Our OTC exchange service offers a more individualized touch. It has a global network of verified traders and trading desk partners. Clients can negotiate a better price and use more money than other trading methods.
 
