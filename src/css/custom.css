@@ -83,7 +83,7 @@ footer.footer > div.container-fluid {
     border-top-right-radius: 0.25rem;
 }
 
-}
+
 @media (min-width: 768px) {
   footer.footer .footer__links {
     flex-direction:row;
