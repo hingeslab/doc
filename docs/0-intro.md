@@ -12,6 +12,29 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 :::
 
+## Find the latest releases
+
+See the newest Aptos releases in the [Latest Releases](./releases/index.md) list and its subpages.
+
+## Set up your environment and start with the tutorials
+
+<div class="docs-card-container">
+<div class="row row-cols-1 row-cols-md-3a g-4">
+  
+  <div class="col">
+    <div class="card card-body h-100 d-flex flex-column" >
+    <a href="guides/getting-started" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
+    <p class="card-text">Begin by setting up your Aptos development environment.</p>
+</div>
+  </div>
+  <div class="col">
+    <div class="card card-body h-100 d-flex flex-column">
+    <a href="tutorials/aptos-quickstarts/" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
+    <p class="card-text">Submit your first transaction, write your first Move module, deploy your first coin, and more.</p>
+</div>
+</div>
+</div>
+</div>
 
 ## Getting Started
 
