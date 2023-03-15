@@ -46,7 +46,7 @@ module.exports = {
       type: 'category',
       label: 'FEATURES',
       items: [
-        'Features/ Autonomous',
+        'Features/Autonomous',
         'Features/AI-Powered-Trading-Signals',
         'Features/Crypto-Assets-Investment-Fund',
         'Features/Inner-Circle-Altcoins-Trading',
