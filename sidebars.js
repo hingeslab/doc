@@ -52,7 +52,7 @@ module.exports = {
         'Features/Inner-Circle-Altcoins-Trading',
         'Features/MetaVerse-NFT-Game',
         'Features/Peer-to-Peer-OTC-Exchange',
-        'Features/Zero-percent-interest-loans'
+        'Features/Zero-percent-interest-loans',
       ],  
     },
     {
@@ -104,7 +104,7 @@ module.exports = {
     },
     'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
     'Important-Notice/Important-Notice',
-    'Hinges-Vesting/Hinges-Vesting'
+    'Hinges-Vesting/Hinges-Vesting',
   ],
 };
 
