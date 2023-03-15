@@ -102,7 +102,6 @@ module.exports = {
         '/Team/Collaborate with US.md',
       ],  
     },
-    },
     '/Fractional-Co Owned Real Estate/Fractional-Co Owned Real Estate.md',
     '/Important Notice/Important Notice.md',
     '/Hinges Vesting/Hinges Vesting.md'
