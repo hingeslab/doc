@@ -47,42 +47,42 @@ module.exports = {
       label: 'FEATURES',
       items: [
         'docs/Features/ Autonomous.md',
-        'docs/Features/AI-Powered Trading Signals.md',
-        'docs/Features/Crypto Assets Investment Fund.md',
-        'docs/Features/Inner Circle Altcoins Trading.md',
-        'docs/Features/MetaVerse NFT Game.md',
-        'docs/Features/Peer-to-Peer  OTC Exchange.md',
-        'docs/Features/Zero percent interest loans.md'
+        'docs/Features/AI-Powered-Trading-Signals.md',
+        'docs/Features/Crypto-Assets-Investment-Fund.md',
+        'docs/Features/Inner-Circle-Altcoins-Trading.md',
+        'docs/Features/MetaVerse-NFT-Game.md',
+        'docs/Features/Peer-to-Peer-OTC-Exchange.md',
+        'docs/Features/Zero-percent-interest-loans.md'
       ],  
     },
     {
       type: 'category',
       label: 'HINGES TOKEN',
       items: [
-        'docs/Hinges Token/Token Utility.md',
-        'docs/Hinges Token/Token Economics.md',
-        'docs/Hinges Token/Vesting Schedule.md',
-        'docs/Hinges Token/Roadmap.md',
+        'docs/Hinges-Token/Token-Utility.md',
+        'docs/Hinges-Token/Token-Economics.md',
+        'docs/Hinges-Token/Vesting-Schedule.md',
+        'docs/Hinges-Token/Roadmap.md',
       ],  
     },
     {
       type: 'category',
       label: 'USER GUIDES',
       items: [
-        'docs/User Guides/Staking.md',
-        'docs/User Guides/Provide Liquidity.md',
+        'docs/User-Guides/Staking.md',
+        'docs/User-Guides/Provide-Liquidity.md',
       ],  
     },
     {
       type: 'category',
       label: 'RESOURCES',
       items: [
-        'docs/Resources/Deployed Contract.md',
+        'docs/Resources/Deployed-Contract.md',
         'docs/Resources/Roadmap.md',
-        'docs/Resources/Code Contributors.md',
-        'docs/Resources/Referral Program.md',
+        'docs/Resources/Code-Contributors.md',
+        'docs/Resources/Referral-Program.md',
         'docs/Resources/FAQ.md',
-        'docs/Resources/Brand Assets.md',
+        'docs/Resources/Brand-Assets.md',
         'docs/Resources/Blog.md',
       ],  
     },
@@ -91,20 +91,20 @@ module.exports = {
       label: 'SECURITY',
       items: [
         'docs/Security/Audit.md',
-        'docs/Security/Bug Bounty Program.md',
+        'docs/Security/Bug-Bounty-Program.md',
       ],  
     },
     {
       type: 'category',
       label: 'TEAM',
       items: [
-        'docs/Team/About Us.md',
-        'docs/Team/Collaborate with US.md',
+        'docs/Team/About-Us.md',
+        'docs/Team/Collaborate-with-US.md',
       ],  
     },
-    '/Fractional-Co Owned Real Estate/Fractional-Co Owned Real Estate.md',
-    '/Important Notice/Important Notice.md',
-    '/Hinges Vesting/Hinges Vesting.md'
+    '/Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate.md',
+    '/Important-Notice/Important-Notice.md',
+    '/Hinges-Vesting/Hinges-Vesting.md'
   ],
 };
 
