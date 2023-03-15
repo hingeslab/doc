@@ -14,7 +14,7 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 ## Find the latest releases
 
-See the newest Aptos releases in the [Latest Releases](./releases/index.md) list and its subpages.
+See the newest Hinges releases in the [Latest Releases](docs/5-Resources) list and its subpages.
 
 ## Set up your environment and start with the tutorials
 
@@ -23,22 +23,20 @@ See the newest Aptos releases in the [Latest Releases](./releases/index.md) list
   
   <div class="col">
     <div class="card card-body h-100 d-flex flex-column" >
-    <a href="guides/getting-started" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
-    <p class="card-text">Begin by setting up your Aptos development environment.</p>
+    <a href="docs/4-User Guides/1-Staking.md" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
+    <p class="card-text">Begin by looking at the user guides.</p>
 </div>
   </div>
   <div class="col">
     <div class="card card-body h-100 d-flex flex-column">
-    <a href="tutorials/aptos-quickstarts/" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
-    <p class="card-text">Submit your first transaction, write your first Move module, deploy your first coin, and more.</p>
+    <a href="docs/2-Features/ Autonomous.md" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
+    <p class="card-text">Check out Hinges features.</p>
 </div>
 </div>
 </div>
 </div>
 
-## Getting Started
 
-[Hinges](https://hedgeplus.io/) has decentralized financial (DeFi) tools and services accessible to anyone and made makes things easy. It aims to break down barriers by helping you earn using decentralized finance and using your crypto to access funds with zero cost loans.  Use this documentation as your guide into the Hinges ecosystem!
 
 ### Hinges Basics
 
