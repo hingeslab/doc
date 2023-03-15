@@ -1,23 +1,19 @@
 
 ---
+
 title: "AI-Powered-Trading-Signals"
-id: "Features/AI-Powered-Trading-Signals" 
+id: "Features/AI-Powered-Trading-Signals"
 ---
 
-
-Here at Hinges, we are on a mission to reform trading stereotypes! 
+Here at Hinges, we are on a mission to reform trading stereotypes!
 
 As a part of our community, we strive to provide you with more than just precise signals; we also want to educate you how to read market charts and analyze them deftly to the point where trading becomes second nature.
 
 A couple of our team members are highly trained traders that have been trading in the cryptocurrency market since 2011.
 
- 
-
 We only use the highest quality data and algorithms so you can have the best trading experience possible.
 
 That's why we created our simple software (helping you trade more intelligently and not more complicated), so you can potentially reap the same benefits.
-
- 
 
 Signals: Earn incredible returns on calls from top analysts!
 
@@ -29,21 +25,15 @@ Using Trading Strategies called "asymmetric investing" allows you to turn small 
 
 Finally – we teach our community how to manage mindset, structure & habits.
 
- 
-
 Quality always takes precedence over quantity. We won't offer trading signals haphazardly. If they adhere to our requirements and a safe trading approach, crypto trading signals will be sent to you.
 
 Providing unique research typically walled off from everyday investors, as well as portfolios, reports, and other perks exclusive to VIP members.
-
- 
 
 Our professional analysts watch the markets and trends 24 hours daily, so you don't have to.
 
 The Trade Room aims to provide a relaxed, friendly environment with like-minded traders to discuss, learn and grow together.
 
 Now you can trade cryptocurrency like a professional trader without spending all day in front of the charts!
-
- 
 
 Holders of a specified amount of Hinge's tokens will have:
 
@@ -59,8 +49,6 @@ In-depth Technical, Fundamental, and Sentimental Analysis.
 
 Trading Strategies
 
- 
-
 By joining our VIP group, you are unlocking a wealth of knowledge and experience from our traders, granting you the privilege of joining the ELITE.
 
-TRADE SMARTER, NOT HARDER. 
+TRADE SMARTER, NOT HARDER.
