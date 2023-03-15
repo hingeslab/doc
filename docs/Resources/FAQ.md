@@ -1,6 +1,4 @@
----
-sidebar_position: 14
----
+# FAQ
 
 # Frequently Asked Questions
 

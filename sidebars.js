@@ -30,4 +30,82 @@ const sidebars = {
    */
 };
 
-module.exports = sidebars;
+
+module.exports = {
+  docs: [
+    {
+      type: 'category',
+      label: 'INTRODUCTION',
+      items: [
+        '/Introduction/Overview.md',
+        '/Introduction/Challenges.md',
+        '/Introduction/Solution.md',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'FEATURES',
+      items: [
+        '/Features/ Autonomous.md',
+        '/Features/AI-Powered Trading Signals.md',
+        '/Features/Crypto Assets Investment Fund.md',
+        '/Features/Inner Circle Altcoins Trading.md',
+        '/Features/MetaVerse NFT Game.md',
+        '/Features/Peer-to-Peer  OTC Exchange.md',
+        '/Features/Zero percent interest loans.md'
+      ],  
+    },
+    {
+      type: 'category',
+      label: 'HINGES TOKEN',
+      items: [
+        '/Hinges Token/Token Utility.md',
+        '/Hinges Token/Token Economics.md',
+        '/Hinges Token/Vesting Schedule.md',
+        '/Hinges Token/Roadmap.md',
+      ],  
+    },
+    {
+      type: 'category',
+      label: 'USER GUIDES',
+      items: [
+        '/User Guides/Staking.md',
+        '/User Guides/Provide Liquidity.md',
+      ],  
+    },
+    {
+      type: 'category',
+      label: 'RESOURCES',
+      items: [
+        '/Resources/Deployed Contract.md',
+        '/Resources/Roadmap.md',
+        '/Resources/Code Contributors.md',
+        'docs/Resources/Referral Program.md',
+        '/Resources/FAQ.md',
+        '/Resources/Brand Assets.md',
+        '/Resources/Blog.md',
+      ],  
+    },
+    {
+      type: 'category',
+      label: 'SECURITY',
+      items: [
+        '/Security/Audit.md',
+        '/Security/Bug Bounty Program.md',
+      ],  
+    },
+    {
+      type: 'category',
+      label: 'TEAM',
+      items: [
+        '/Team/About Us.md',
+        '/Team/Collaborate with US.md',
+      ],  
+    },
+    },
+    '/Fractional-Co Owned Real Estate/Fractional-Co Owned Real Estate.md',
+    '/Important Notice/Important Notice.md',
+    '/Hinges Vesting/Hinges Vesting.md'
+  ],
+};
+
