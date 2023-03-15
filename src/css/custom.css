@@ -26,5 +26,46 @@
   --ifm-color-primary-lightest: #d9caea;
 }
 
+footer.footer a {
+  color: var(--ifm-navbar-link-color);
+  font-size: .75rem;
+  text-decoration: underline;
+}
+footer.footer .emails{
+  text-align: center;
+}
 
+footer.footer .right{
+  text-align: right;
+}
+
+footer.footer .icon{
+  width: 26px;
+  height: 26px;
+}
+
+footer.footer .footer-logo{
+  width:48px;
+  color: var(--ifm-navbar-link-color);
+}
+
+footer.footer a.social-link{
+  text-decoration: none;
+  width:26px;
+  color: var(--ifm-navbar-link-color);
+}
+
+footer.footer nav.social-links {
+  display:flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  color:#fff;
+}
+
+@media (min-width: 768px) {
+  footer.footer nav.social-links {
+    justify-content: end;
+  }
+}
 
