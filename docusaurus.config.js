@@ -143,12 +143,4 @@ const config = {
     }),
 };
 
-const sidebars = {
-  // ...
-  mySidebar: {
-    // ...
-    collapsed: false,
-  },
-};
-
 module.exports = config;
