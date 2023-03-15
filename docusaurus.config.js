@@ -102,14 +102,17 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.com/invite/hkqAHKUVGK',
+                image: 'img/discord.png', // add an image property with the path to your image file
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/hingesHQ',
+                image: 'img/twitter.png', // add an image property with the path to your image file
               },
               {
                 label: 'Telegram',
                 href: 'https://t.me/hinges_EN',
+                image: 'img/telegram.png', // add an image property with the path to your image file
               },
             ],
           },
