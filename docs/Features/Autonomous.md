@@ -1,5 +1,5 @@
 ---
-title: " Autonomous"
+title: "Autonomous"
 id: "Features/Autonomous"
 ---
 
