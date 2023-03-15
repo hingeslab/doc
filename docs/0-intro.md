@@ -23,13 +23,13 @@ See the newest Hinges releases in the [Latest Releases](docs/5-Resources) list a
   
   <div class="col">
     <div class="card card-body h-100 d-flex flex-column" >
-    <a href="docs/4-User Guides/1-Staking.md" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
+    <a href="/4-User Guides/1-Staking.md" class="card-title card-link stretched-link"> <h2>Getting started</h2></a>
     <p class="card-text">Begin by looking at the user guides.</p>
 </div>
   </div>
   <div class="col">
     <div class="card card-body h-100 d-flex flex-column">
-    <a href="docs/2-Features/ Autonomous.md" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
+    <a href="/2-Features/ Autonomous.md" class="card-title card-link stretched-link"> <h2>Run quickstart tutorials</h2></a>
     <p class="card-text">Check out Hinges features.</p>
 </div>
 </div>
