@@ -72,3 +72,13 @@ footer.footer nav.social-links {
 footer.footer > div.container-fluid {
   max-width: inherit;
 }
+
+@media (min-width: 576px)
+.bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
