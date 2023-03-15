@@ -93,7 +93,7 @@ const config = {
                 html: `
                 <div class="footer-left">
                   <a class="footer-logo" href="https://www.hinges.io/" target="_blank" rel="noopener noreferrer" title="Hinges">
-                  #__next > div > header > nav > div.logo-wrapper.sm\:mx-0 > a > img
+                  <div class="logo-wrapper sm:mx-0"><a href="https://hinges.io/"><img class="logo " src="/images/hinges-logo.png" alt="Hinges logo" width="140"></a></div>
                   </a>
                   <div class="copyright">
                     <p class="copyright-text">© 2023 Hinges</p>
