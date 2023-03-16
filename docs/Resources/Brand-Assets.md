@@ -1,6 +1,6 @@
 ---
-title: "Brand-Assets"
-id: "Resources/Brand-Assets"
+title: "Brand Assets"
+id: "Brand-Assets"
 ---
 
 

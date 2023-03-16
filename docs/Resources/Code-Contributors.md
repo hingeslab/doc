@@ -1,6 +1,6 @@
 ---
-title: "Code-Contributors"
-id: "Resources/Code-Contributors"
+title: "Code Contributors"
+id: "Code-Contributors"
 ---
 
 # Code Contributors

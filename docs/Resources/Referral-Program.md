@@ -1,6 +1,6 @@
 ---
-title: "Referral-Program"
-id: "Resources/Referral-Program"
+title: "Referral Program"
+id: "Referral-Program"
 ---
 
 # Referral Program

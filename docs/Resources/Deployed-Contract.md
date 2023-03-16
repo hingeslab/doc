@@ -1,6 +1,6 @@
 ---
-title: "Deployed-Contract"
-id: "Resources/Deployed-Contract"
+title: "Deployed Contract"
+id: "Deployed-Contract"
 ---
 
 

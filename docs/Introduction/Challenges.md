@@ -1,6 +1,6 @@
 ---
 title: "Challenges"
-id: "Introduction/Challenges"
+id: "Challenges"
 ---
 
 # Challenges

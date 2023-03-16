@@ -1,6 +1,6 @@
 ---
-title: "About-Us"
-id: "Team/About-Us"
+title: "About Us"
+id: "About-Us"
 ---
 
 

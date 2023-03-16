@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-id: "Resources/FAQ"
+id: "FAQ"
 ---
 
 # FAQ

@@ -1,6 +1,6 @@
 ---
-title: "Vesting-Schedule"
-id: "Hinges-Token/Vesting-Schedule"
+title: "Vesting Schedule"
+id: "Vesting-Schedule"
 ---
 
 # Vesting Schedule

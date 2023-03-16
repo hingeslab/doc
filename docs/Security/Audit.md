@@ -1,6 +1,6 @@
 ---
 title: "Audit"
-id: "Security/Audit"
+id: "Audit"
 ---
 
 # Audit

@@ -1,6 +1,6 @@
 ---
-title: "MetaVerse-NFT-Game"
-id: "Features/MetaVerse-NFT-Game"
+title: "MetaVerse NFT Game"
+id: "MetaVerse-NFT-Game"
 ---
 
 

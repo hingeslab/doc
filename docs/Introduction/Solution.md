@@ -1,6 +1,6 @@
 ---
 title: "Solution"
-id: "Introduction/Solution"
+id: "Solution"
 ---
 
 

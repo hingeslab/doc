@@ -1,6 +1,6 @@
 ---
-title: "AI-Powered-Trading-Signals"
-id: "Features/AI-Powered-Trading-Signals"
+title: "AI Powered Trading Signals"
+id: "AI-Powered-Trading-Signals"
 ---
 
 Here at Hinges, we are on a mission to reform trading stereotypes!

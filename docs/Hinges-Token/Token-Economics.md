@@ -1,6 +1,6 @@
 ---
-title: "Token-Economics"
-id: "Hinges-Token/Token-Economics"
+title: "Token Economics"
+id: "Token-Economics"
 ---
 
 # Token Economics

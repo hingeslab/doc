@@ -1,6 +1,6 @@
 ---
-title: "Token-Utility"
-id: "Hinges-Token/Token-Utility"
+title: "Token Utility"
+id: "Token-Utility"
 ---
 
 

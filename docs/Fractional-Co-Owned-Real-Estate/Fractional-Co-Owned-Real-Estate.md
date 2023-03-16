@@ -1,6 +1,6 @@
 ---
-title: "Fractional-Co-Owned-Real-Estate"
-id: "Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate"
+title: "Fractional Co Owned Real Estate"
+id: "Fractional-Co-Owned-Real-Estate"
 ---
 
 

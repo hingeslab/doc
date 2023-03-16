@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-id: "Resources/Blog"
+id: "Blog"
 ---
 
 # Blog

@@ -1,6 +1,6 @@
 ---
 title: "Vesting"
-id: "Hinges-Vesting/Hinges-Vesting"
+id: "Hinges-Vesting"
 ---
 
 # Vesting

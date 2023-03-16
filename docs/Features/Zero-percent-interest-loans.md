@@ -1,6 +1,6 @@
 ---
-title: "Zero-percent-interest-loans"
-id: "Features/Zero-percent-interest-loans"
+title: "Zero percent interest loans"
+id: "Zero-percent-interest-loans"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Important-Notice"
-id: "Important-Notice/Important-Notice"
+title: "Important Notice"
+id: "Important-Notice"
 ---
 
 # Hinges Introduction

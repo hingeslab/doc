@@ -1,6 +1,6 @@
 ---
 title: "Autonomous"
-id: "Features/Autonomous"
+id: "Autonomous"
 ---
 
 ### Autonomous and Hyper Deflationary Coin

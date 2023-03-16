@@ -1,6 +1,6 @@
 ---
-title: "Bug-Bounty-Program"
-id: "Security/Bug-Bounty-Program"
+title: "Bug Bounty Program"
+id: "Bug-Bounty-Program"
 ---
 
 
