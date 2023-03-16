@@ -9,7 +9,7 @@ const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
   url: 'https://www.hinges.io/',
-  baseUrl: '/hinges.io/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
