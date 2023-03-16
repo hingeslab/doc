@@ -100,6 +100,7 @@ const config = {
                     <div class="copyright-links">
                   </div>
                 </div>
+               </div>
                 `,
               },
             ],
@@ -148,6 +149,10 @@ const sidebar = {
 };
 
 module.exports = {
+  baseUrl: process.env.BASE_URL,
+  // ...
+};
+
   // ...
   presets: [
     [
