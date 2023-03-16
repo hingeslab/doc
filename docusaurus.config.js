@@ -9,7 +9,7 @@ const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
   url: 'hinges-git-main-paulieb14.vercel.app/',
-  baseUrl: '/',
+  baseUrl: 'vercel.app/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
