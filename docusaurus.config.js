@@ -9,7 +9,7 @@ const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
   url: 'https://github.com/Paulieb14/Hinges/',
-  baseUrl: '/Hinges/',
+  baseUrl: '/Hinges',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
