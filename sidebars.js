@@ -100,7 +100,8 @@ module.exports = {
       items: [
         'Team/About-Us',
         'Team/Collaborate-with-US',
-      ],  
+      ],
+      collapsed: false,  
     },
     'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
     'Important-Notice/Important-Notice',

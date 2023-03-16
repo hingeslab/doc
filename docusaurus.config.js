@@ -143,4 +143,23 @@ const config = {
     }),
 };
 
-module.exports = config;
+const sidebar = {
+  // your sidebar content goes here
+};
+
+module.exports = {
+  // ...
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          // other configuration options for docs
+        },
+        // other presets
+      },
+    ],
+  ],
+  // ...
+};
