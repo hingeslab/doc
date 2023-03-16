@@ -105,7 +105,9 @@ const config = {
               },
             ],
           },
-          {
+        ], 
+      },
+      {
             title: null,
             items: [
               {
@@ -123,6 +125,7 @@ const config = {
                         </a>
                     </nav>
                   </p>
+                </div> 
               `,
               },
             ],
