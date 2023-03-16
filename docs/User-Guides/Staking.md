@@ -1,6 +1,6 @@
 ---
 title: "Staking"
-id: "User-Guides/Staking"
+id: "Staking"
 ---
 
 # Staking

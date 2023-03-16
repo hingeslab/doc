@@ -1,6 +1,6 @@
 ---
-title: "Collaberate-with-US"
-id: "Team/Collaborate-with-US"
+title: "Collaberate With US"
+id: "Collaborate-with-US"
 ---
 
 

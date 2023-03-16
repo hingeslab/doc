@@ -1,6 +1,6 @@
 ---
 title: "Provide Liquidity"
-id: "User-Guides/Provide-Liquidity"
+id: "Provide-Liquidity"
 ---
 
 # Provide Liquidity
