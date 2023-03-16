@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hinges',
   tagline: 'Dinosaurs are cool',
-  url: 'process.env.BASE_URL',
+  url: 'https://mydefaulturl.asafallback.example',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
