@@ -1,7 +1,0 @@
----
-title: "Blog"
-id: "Blog"
----
-
-# Blog
-
