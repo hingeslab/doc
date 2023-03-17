@@ -122,7 +122,8 @@ for (const sidebarName in sidebars) {
 }
 
 module.exports = {
-  ...
-  css: [customCss],
+  // other properties
+  css: [customCss]
 };
+
 
