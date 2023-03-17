@@ -31,7 +31,7 @@ const sidebars = {
 };
 
 
-module.exports = {
+const sidebars = {
   docs: [
     {
       type: 'category',
@@ -103,11 +103,21 @@ module.exports = {
       ],
       collapsed: false,  
     },
-    'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
-    'Important-Notice/Important-Notice',
-    'Hinges-Vesting/Hinges-Vesting',
+    {
+      type: 'category',
+      label: 'OTHER',
+      position: 'bottom',
+      items: [
+        'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
+        'Important-Notice/Important-Notice',
+        'Hinges-Vesting/Hinges-Vesting',
+      ],
+    },
   ],
 };
 
-module.exports = sidebars;
+for (const sidebarName in sidebars) {
+  sidebars[sidebarName].collapsed = false;
+}
 
+module.exports = sidebars;
