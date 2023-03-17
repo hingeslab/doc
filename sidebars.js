@@ -31,7 +31,7 @@ const sidebars = {
 };
 
 
-const sidebars = {
+module.exports = {
   docs: [
     {
       type: 'category',
