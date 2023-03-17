@@ -121,3 +121,7 @@ footer.footer .footer-left .copyright-links {
     justify-content:start;
   }
 }
+
+nav li > a {
+  font-weight: bold;
+}
