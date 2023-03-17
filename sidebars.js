@@ -35,7 +35,7 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'INTRODUCTION',
+      label: '**INTRODUCTION**',
       items: [
         'Introduction/Overview',
         'Introduction/Challenges',
@@ -44,7 +44,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'FEATURES',
+      label: '**FEATURES**',
       items: [
         'Features/Autonomous',
         'Features/AI-Powered-Trading-Signals',
@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'HINGES TOKEN',
+      label: '**HINGES TOKEN**',
       items: [
         'Hinges-Token/Token-Utility',
         'Hinges-Token/Token-Economics',
@@ -67,7 +67,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'USER GUIDES',
+      label: '**USER GUIDES**',
       items: [
         'User-Guides/Staking',
         'User-Guides/Provide-Liquidity',
@@ -75,7 +75,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'RESOURCES',
+      label: '**RESOURCES**',
       items: [
         'Resources/Deployed-Contract',
         'Resources/Roadmap',
@@ -88,7 +88,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'SECURITY',
+      label: '**SECURITY**',
       items: [
         'Security/Audit',
         'Security/Bug-Bounty-Program',
@@ -96,7 +96,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'TEAM',
+      label: '**TEAM**',
       items: [
         'Team/About-Us',
         'Team/Collaborate-with-US',
@@ -105,7 +105,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'OTHER',
+      label: '**OTHER**',
       items: [
         'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
         'Important-Notice/Important-Notice',
