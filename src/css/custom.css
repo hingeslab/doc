@@ -122,9 +122,11 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-.sidebar > .sidebar-item > a.sidebar-link {
+nav.sidebar ul li a {
   font-weight: bold;
 }
+
+
 
 
 
