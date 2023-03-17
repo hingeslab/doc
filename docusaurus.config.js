@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hinges',
-  tagline: 'Hinges Docs',
-  url: 'https://hinges.vercel.app',
+  tagline: 'Dinosaurs are cool',
+  url: 'https://paulieb14@github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'paulieb14', // Usually your GitHub org/user name.
-  projectName: 'Hinges', // Usually your repo name.
+  projectName: 'Hinges-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -93,21 +93,18 @@ const config = {
                 html: `
                 <div class="footer-left">
                   <a class="footer-logo" href="https://www.hinges.io/" target="_blank" rel="noopener noreferrer" title="Hinges">
-                  <img src="./img/Hinges.png" alt="My Site Logo" class="themedImage_ToTc themedImage--dark_i4oU">
+                  <img src="/img/Hinges.png" alt="My Site Logo" class="themedImage_ToTc themedImage--dark_i4oU">
                   </a>
                   <div class="copyright">
                     <p class="copyright-text">© 2023 Hinges</p>
                     <div class="copyright-links">
                   </div>
                 </div>
-               </div>
                 `,
               },
             ],
           },
-        ], 
-      },
-      {
+          {
             title: null,
             items: [
               {
@@ -125,7 +122,6 @@ const config = {
                         </a>
                     </nav>
                   </p>
-                </div> 
               `,
               },
             ],
@@ -133,7 +129,7 @@ const config = {
         ],
       },
       colorMode: {
-        // "light" | "dark"
+        // "dark" | "light"
         defaultMode: 'dark',
   
         // Hides the switch in the navbar
@@ -147,27 +143,4 @@ const config = {
     }),
 };
 
-const sidebar = {
-  // your sidebar content goes here
-};
-
-module.exports = {
-  baseUrl: process.env.BASE_URL,
-  // ...
-};
-
-  // ...
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // other configuration options for docs
-        },
-        // other presets
-      },
-    ],
-  ],
-  // ...
-}
+module.exports = config;
