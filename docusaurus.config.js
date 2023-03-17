@@ -34,7 +34,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          showLastUpdateTime: false,
           routeBasePath: '/',
+          sidebarCollapsed: false,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -129,7 +131,7 @@ const config = {
         ],
       },
       colorMode: {
-        // "light" | "dark"
+        // "dark" | "light"
         defaultMode: 'dark',
   
         // Hides the switch in the navbar

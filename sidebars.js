@@ -30,4 +30,93 @@ const sidebars = {
    */
 };
 
+
+module.exports = {
+  docs: [
+    {
+      type: 'category',
+      label: '**INTRODUCTION**',
+      items: [
+        'Introduction/Overview',
+        'Introduction/Challenges',
+        'Introduction/Solution',
+      ],
+    },
+    {
+      type: 'category',
+      label: '**FEATURES**',
+      items: [
+        'Features/Autonomous',
+        'Features/AI-Powered-Trading-Signals',
+        'Features/Crypto-Assets-Investment-Fund',
+        'Features/Inner-Circle-Altcoins-Trading',
+        'Features/MetaVerse-NFT-Game',
+        'Features/Peer-to-Peer-OTC-Exchange',
+        'Features/Zero-percent-interest-loans',
+      ],  
+    },
+    {
+      type: 'category',
+      label: '**HINGES TOKEN**',
+      items: [
+        'Hinges-Token/Token-Utility',
+        'Hinges-Token/Token-Economics',
+        'Hinges-Token/Vesting-Schedule',
+        'Hinges-Token/Roadmap',
+      ],  
+    },
+    {
+      type: 'category',
+      label: '**USER GUIDES**',
+      items: [
+        'User-Guides/Staking',
+        'User-Guides/Provide-Liquidity',
+      ],  
+    },
+    {
+      type: 'category',
+      label: '**RESOURCES**',
+      items: [
+        'Resources/Deployed-Contract',
+        'Resources/Roadmap',
+        'Resources/Code-Contributors',
+        'Resources/Referral-Program',
+        'Resources/FAQ',
+        'Resources/Brand-Assets',
+        'Resources/Blog',
+      ],  
+    },
+    {
+      type: 'category',
+      label: '**SECURITY**',
+      items: [
+        'Security/Audit',
+        'Security/Bug-Bounty-Program',
+      ],  
+    },
+    {
+      type: 'category',
+      label: '**TEAM**',
+      items: [
+        'Team/About-Us',
+        'Team/Collaborate-with-US',
+      ],
+      collapsed: false,  
+    },
+    {
+      type: 'category',
+      label: '**OTHER**',
+      items: [
+        'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
+        'Important-Notice/Important-Notice',
+        'Hinges-Vesting/Hinges-Vesting',
+      ],
+    },
+  ],
+};
+// Set all sidebars to not be collapsed
+for (const sidebarName in sidebars) {
+  sidebars[sidebarName].collapsed = false;
+}
+
 module.exports = sidebars;

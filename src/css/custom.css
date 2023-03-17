@@ -121,3 +121,9 @@ footer.footer .footer-left .copyright-links {
     justify-content:start;
   }
 }
+
+nav > ul > li > a.navGroupTitle {
+  font-weight: bold;
+}
+
+
