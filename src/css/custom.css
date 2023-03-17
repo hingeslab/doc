@@ -122,8 +122,9 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-nav > ul > li > a.navGroupTitle {
+.sidebar > .sidebar-item > a.sidebar-link {
   font-weight: bold;
 }
+
 
 
