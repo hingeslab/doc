@@ -122,8 +122,8 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-
-.sidebar-item > a {
+nav > ul > li > a.navGroupTitle {
   font-weight: bold;
 }
+
 
