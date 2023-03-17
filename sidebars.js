@@ -106,7 +106,6 @@ module.exports = {
     {
       type: 'category',
       label: 'OTHER',
-      position: 'bottom',
       items: [
         'Fractional-Co-Owned-Real-Estate/Fractional-Co-Owned-Real-Estate',
         'Important-Notice/Important-Notice',
@@ -115,7 +114,7 @@ module.exports = {
     },
   ],
 };
-
+// Set all sidebars to not be collapsed
 for (const sidebarName in sidebars) {
   sidebars[sidebarName].collapsed = false;
 }
