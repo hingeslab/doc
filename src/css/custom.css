@@ -126,4 +126,10 @@ nav > ul > li > a.navGroupTitle {
   font-weight: bold;
 }
 
+.menu__list-item-collapsible a {
+  font-weight: bold;
+}
 
+.menu__list-item-collapsible a::after {
+  display: none;
+}
