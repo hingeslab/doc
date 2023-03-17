@@ -121,9 +121,6 @@ for (const sidebarName in sidebars) {
   sidebars[sidebarName].collapsed = false;
 }
 
-module.exports = {
-  // other properties
-  css: [customCss]
-};
+module.exports = sidebars;
 
 
