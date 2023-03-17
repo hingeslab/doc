@@ -122,6 +122,8 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-nav li > a {
+
+.sidebar-item > a {
   font-weight: bold;
 }
+
