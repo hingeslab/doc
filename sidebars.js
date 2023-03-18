@@ -30,6 +30,8 @@ const sidebars = {
    */
 };
 
+const path = require('path');
+const customCss = path.resolve(__dirname, 'static/css/custom.css');
 
 module.exports = {
   docs: [
@@ -120,3 +122,5 @@ for (const sidebarName in sidebars) {
 }
 
 module.exports = sidebars;
+
+
