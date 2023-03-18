@@ -130,3 +130,14 @@ nav.sidebar ul li a {
   font-weight: bold;
 }
 
+/* Remove the arrow icon for nested dropdown menus */
+.dropdown-menu .dropdown-menu {
+  padding: 0;
+  border: none;
+  box-shadow: none;
+}
+
+.dropdown-menu .dropdown-toggle::after {
+  display: none;
+}
+
