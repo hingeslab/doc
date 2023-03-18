@@ -1,8 +1,0 @@
----
-title: "Brand Assets"
-id: "Brand-Assets"
----
-
-
-# Brand Assets
-
