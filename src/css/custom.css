@@ -122,7 +122,7 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-nav > ul > li > a.navGroupTitle {
+nav.sidebar ul li a {
   font-weight: bold;
 }
 
@@ -130,6 +130,3 @@ nav > ul > li > a.navGroupTitle {
   font-weight: bold;
 }
 
-.menu__list-item-collapsible a::after {
-  display: none;
-}
