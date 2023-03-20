@@ -131,6 +131,22 @@ nav.sidebar ul li a {
 .menu__list-item-collapsible a {
   font-weight: bold;
 }
+.dropdown-menu > li > .dropdown-menu {
+    margin-left: 0;
+    margin-right: 0;
+    border: none;
+    box-shadow: none;
+}
+.dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 20px;
+}
+.dropdown-menu > li > .dropdown-menu > li > .dropdown-menu {
+    top: 0;
+}
+.dropdown-menu > li > .dropdown-menu > li > .dropdown-toggle:after {
+    display: none;
+}
+
 
 .menu__list-item-collapsible a::after {
   display: none;
