@@ -68,6 +68,7 @@ const config = {
           src: 'img/Hinges.png',
         },
         items: [
+          {
                 html: `
                   <p class="right">
                     <nav class="social-links">
