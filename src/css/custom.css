@@ -31,36 +31,37 @@ footer.footer a {
   font-size: .75rem;
   text-decoration: underline;
 }
-footer.footer .emails{
+
+footer.footer .emails {
   text-align: center;
 }
 
-footer.footer .right{
+footer.footer .right {
   text-align: right;
 }
 
-footer.footer .icon{
+footer.footer .icon {
   width: 26px;
   height: 26px;
 }
 
-footer.footer .footer-logo{
-  width:48px;
+footer.footer .footer-logo {
+  width: 48px;
   color: var(--ifm-navbar-link-color);
 }
 
-footer.footer a.social-link{
+footer.footer a.social-link {
   text-decoration: none;
-  width:26px;
+  width: 26px;
   color: var(--ifm-navbar-link-color);
 }
 
 footer.footer nav.social-links {
-  display:flex;
+  display: flex;
   gap: 1rem;
   align-items: center;
   justify-content: center;
-  color:#fff;
+  color: #fff;
 }
 
 @media (min-width: 768px) {
@@ -69,56 +70,57 @@ footer.footer nav.social-links {
   }
 }
 
-footer.footer > div.container-fluid {
+footer.footer>div.container-fluid {
   max-width: inherit;
 }
 
-@media (min-width: 576px)
-.bd-example {
+@media (min-width: 576px) {
+  .bd-example {
     padding: 1.5rem;
     margin-right: 0;
     margin-left: 0;
     border-width: 1px;
     border-top-left-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
+  }
 }
 
 
 @media (min-width: 768px) {
   footer.footer .footer__links {
-    flex-direction:row;
+    flex-direction: row;
   }
 }
 
 footer.footer .footer-left {
-  display:flex;
+  display: flex;
   align-items: center;
   gap: 0.75rem;
-  flex-direction:column;
+  flex-direction: column;
 }
 
 @media (min-width: 768px) {
   footer.footer .footer-left {
-    flex-direction:row;
+    flex-direction: row;
   }
 }
 
 footer.footer .footer-left .copyright-text {
   font-size: .75rem;
   line-height: 1rem;
-  margin-bottom:0;
+  margin-bottom: 0;
   white-space: nowrap;
 }
 
 footer.footer .footer-left .copyright-links {
-  display:flex;
-  gap:0.5rem;
-  justify-content:center;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
 }
 
 @media (min-width: 768px) {
   footer.footer .footer-left .copyright-links {
-    justify-content:start;
+    justify-content: start;
   }
 }
 
@@ -146,3 +148,6 @@ nav.sidebar ul li a {
 }
 
 
+.menu__list-item-collapsible a::after {
+  display: none;
+}
