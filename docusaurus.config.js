@@ -75,46 +75,17 @@ const config = {
             label: 'Documentation',
           },
           {
-            html: `
-              <!DOCTYPE html>
-              <html lang="en">
-              <head>
-                <meta charset="UTF-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Hinges</title>
-              </head>
-              <body>
-                <header>
-                  <nav>
-                    <ul>
-                      <li>
-                        <a href="#intro">
-                          Documentation
-                        </a>
-                      </li>
-                    </ul>
-                    <a href="/">
-                      <img src="img/Hinges.png" alt="My Site Logo">
-                    </a>
-                    <ul>
-                      <li>
-                        <a href="https://github.com/hedgeplus-io">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://hinges.io/">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internet/internet-original.svg" alt="Website">
-                        </a>
-                      </li>
-                    </ul>
-                  </nav>
-                </header>
-              </body>
-              </html>
-            `,
+            href: 'https://github.com/hedgeplus-io',
+            label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://hinges.io/',
+            label: 'Website',
+            position: 'right',
           },
         ],
+      },
       footer: {
         links: [
           {
@@ -175,3 +146,4 @@ const config = {
 };
 
 module.exports = config;
+
