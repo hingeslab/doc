@@ -78,11 +78,13 @@ const config = {
             href: 'https://github.com/hedgeplus-io',
             label: 'GitHub',
             position: 'right',
+            icon: 'img/github.svg',
           },
           {
             href: 'https://hinges.io/',
             label: 'Website',
             position: 'right',
+            icon: 'img/website.svg',
           },
         ],
       },
