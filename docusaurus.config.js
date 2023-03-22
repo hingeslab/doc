@@ -75,9 +75,10 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/hedgeplus-io',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/hingeslab/doc",
+            position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
           {
             href: 'https://hinges.io/',
@@ -146,3 +147,4 @@ const config = {
 };
 
 module.exports = config;
+
