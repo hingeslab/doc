@@ -39,9 +39,9 @@ const config = {
           sidebarCollapsed: false,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // Remove this to remove the "edit this page" links. https://github.com/<user or org>/<repo>/edit/<branch>/<subfolder of website if used>
           editUrl:
-            'https://github.com/hingeslab/docusaurus.community/edit/main/',  
+            'https://github.com/hingeslab/doc/edit/main/',  
         },
         blog:false,
         //blog: {
