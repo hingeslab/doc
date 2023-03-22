@@ -124,9 +124,10 @@ footer.footer .footer-left .copyright-links {
   }
 }
 
-.header-github-link[aria-label] {
-  color: white;
+.header-github-link svg {
+  color: #fff; /* set the color to white */
 }
+
 
 nav.sidebar ul li a {
   font-weight: bold;
