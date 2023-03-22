@@ -75,7 +75,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: "https://github.com/celo-org",
+            href: "https://github.com/hingeslab/doc",
             position: "right",
             className: "header-github-link",
             "aria-label": "GitHub repository",
