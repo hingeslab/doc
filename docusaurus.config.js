@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/hingeslab/doc/',
+            'https://github.com/hingeslab/docusaurus.community/edit/main/',  
         },
         blog:false,
         //blog: {
