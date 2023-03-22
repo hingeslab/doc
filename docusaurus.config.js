@@ -86,6 +86,8 @@ const config = {
             position: 'right',
           },
         ],
+       },
+       sidebarCollapsible: false,
       },
       footer: {
         links: [
