@@ -1,4 +1,3 @@
-0 lines (139 sloc)  7.31 KB
 
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
