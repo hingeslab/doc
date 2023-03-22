@@ -1,3 +1,4 @@
+
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
@@ -39,9 +40,9 @@ const config = {
           sidebarCollapsed: true,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // Remove this to remove the "edit this page" links. https://github.com/<user or org>/<repo>/edit/<branch>/<subfolder of website if used>
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/hingeslab/doc/edit/main/',  
         },
         blog:false,
         //blog: {
@@ -49,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //  'https://github.com/hingeslab/doc/',
         //},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
