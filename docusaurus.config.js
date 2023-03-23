@@ -38,7 +38,6 @@ const config = {
           showLastUpdateTime: false,
           routeBasePath: '/',
           sidebarCollapsed: false,
-          hideableSidebar: false,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links. https://github.com/<user or org>/<repo>/edit/<branch>/<subfolder of website if used>
