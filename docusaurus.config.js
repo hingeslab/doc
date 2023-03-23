@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: '/img/Hinges.png', 
+  favicon: '/img/Hinges_Logo_Favicon.png', 
 
 
   // GitHub pages deployment config.
